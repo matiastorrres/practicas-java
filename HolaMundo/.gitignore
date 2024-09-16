@@ -14,6 +14,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+.metadata/  # Agregar esta línea para ignorar la carpeta .metadata
 
 ### NetBeans ###
 /nbproject/private/

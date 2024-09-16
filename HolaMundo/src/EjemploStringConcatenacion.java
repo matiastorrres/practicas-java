@@ -18,4 +18,5 @@ public class EjemploStringConcatenacion {
 
     }
 }
-// NOTA: LOS STRING SON INMUTABLES
+// NOTA: LOS STRING SON INMUTABLES, cuando se modifican, no se modifica el string original, sino que retorna una nueva
+// instancia del string con esa modificacion
